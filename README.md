@@ -34,12 +34,35 @@ Here are the programming languages I'm proficient in:
 - OpenGL
 - SQL
 
+
+
+<a href="[https://www.scala-lang.org/](https://www.java.com/en/)" target="_blank">
+  <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v2.png" alt="Java" width="40" height="40" title="Java">
+</a>
+
+<a href="https://www.scala-lang.org/" target="_blank">
+  <img src="https://github.com/devicons/devicon/raw/master/icons/scala/scala-original.svg" alt="Scala" width="40" height="40" title="Scala">
+</a>
+
+
+![Kotlin](https://img.icons8.com/color/48/000000/kotlin.png)
+![Jetpack Compose](https://img.icons8.com/color/48/000000/android.png)
+![C](https://img.icons8.com/color/48/000000/c-programming.png)
+![Python](https://img.icons8.com/color/48/000000/python.png)
+![OpenGL](https://img.icons8.com/color/48/000000/opengl.png)
+![SQL](https://img.icons8.com/ios-filled/50/000000/sql.png)
+
+![Scala](https://icons8.com/icons/set/scala)
+
+<a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/scala/scala-original.svg"><img src="https://github.com/devicons/devicon/raw/master/icons/scala/scala-original.svg" title="Scala" alt="Scala" width="40" height="40" style="max-width: 100%;"></a>
+
+
 ## Projects
 
 ### CoachMe
 CoachMe is an Android app that I developed as a semester project in a group of 5. It aims to connect sports enthusiasts with suitable coaches. The project is hosted on GitHub, and you can find it [here](https://github.com/SDPCoachMe/SDP-2023). Feel free to check it out!
 
-### Jass-entials (Work in Progress)
+### jass-entials (Work in Progress)
 Jass-entials is my current project, an Android app dedicated to providing users with a platform to play different jass variations. I'm excited to develop this app and bring the joy of playing jass to users worldwide. You can find the current state of it [here](https://github.com/apps-entials/jass-entials).
 
 
