@@ -69,7 +69,7 @@ Here are the programming languages I am proficient in:
 ## Projects
 
 ### CoachMe
-CoachMe is an Android app that I developed as a semester project in a group of 5. It aims to connect sports enthusiasts with suitable coaches. The project is hosted on GitHub, and you can find it [here](https://github.com/SDPCoachMe/SDP-2023). Feel free to check it out!
+CoachMe is an Android app that I developed as a semester project in a group of five. It aims to connect sports enthusiasts with suitable coaches. The project is hosted on GitHub, and you can find it [here](https://github.com/SDPCoachMe/SDP-2023). Feel free to check it out!
 
 ### jass-entials (Work in Progress)
 Jass-entials is my current project, an Android app dedicated to providing users with a platform to play different jass variations. I'm excited to develop this app and bring the joy of playing jass to users worldwide. You can find the current state of it [here](https://github.com/apps-entials/jass-entials).
