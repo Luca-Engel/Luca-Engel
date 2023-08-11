@@ -85,6 +85,11 @@ Jass-entials is my current project, an Android app dedicated to providing users 
 ## Stats
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Luca-Engel&theme=dark&background=000000)](https://git.io/streak-stats)
 
+<div>
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Luca Engel contribution graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=Luca-Engel&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+
+</div>
+
 Thank you for visiting my profile, and I look forward to sharing more exciting projects with you!
 
 </div>
