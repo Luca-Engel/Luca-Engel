@@ -68,6 +68,10 @@ Here are the programming languages I am proficient in:
   <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Opengl-logo.svg" alt="OpenGL" height="40" title="OpenGL">
 </a>
 
+<a href="https://en.wikipedia.org/wiki/JavaScript" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JavaScript" height="40" title="JavaScript">
+</a>
+
 </div>
 
 ## Public Projects
