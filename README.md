@@ -70,7 +70,7 @@ Here are the programming languages I am proficient in:
 
 </div>
 
-## Projects
+## Public Projects
 
 ### CoachMe
 CoachMe is an Android app that I developed as a semester project in a group of five. It aims to connect sports enthusiasts with suitable coaches. The project is hosted on GitHub, and you can find it [here](https://github.com/SDPCoachMe/SDP-2023). Feel free to check it out!
