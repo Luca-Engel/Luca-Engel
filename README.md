@@ -44,6 +44,10 @@ Here are the programming languages I am proficient in:
   <img src="https://img.icons8.com/color/48/000000/kotlin.png" alt="Kotlin" height="40" title="Kotlin">
 </a>
 
+<a href="https://developer.android.com/" target="_blank">
+  <img src="https://developer.android.com/static/images/brand/Android_Robot.png" alt="Android" height="40" title="Android">
+</a>
+
 <a href="https://developer.android.com/jetpack/compose" target="_blank">
   <img src="https://3.bp.blogspot.com/-VVp3WvJvl84/X0Vu6EjYqDI/AAAAAAAAPjU/ZOMKiUlgfg8ok8DY8Hc-ocOvGdB0z86AgCLcBGAsYHQ/s1600/jetpack%2Bcompose%2Bicon_RGB.png" alt="Jetpack Compose" height="40" title="Jetpack Compose">
 </a>
