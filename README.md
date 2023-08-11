@@ -13,10 +13,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Luca Engel
+<div align="center">
+  <h1>Luca Engel</h1>
+  <a href="https://github.com/Luca-Engel" target="_blank"">
+    <img src="https://img.shields.io/github/followers/luca-engel?label=Follow&style=social" alt="GitHub Luca Engel" height="25" title="GitHub Luca Engel">
+  </a>
+  
+  <a href="https://www.linkedin.com/in/luca-engel/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin&link=https://www.linkedin.com/in/luca-engel/" alt="LinkedIn Luca Engel" height="25" title="LinkedIn Luca Engel">
+  </a>
 
-[![GitHub](https://img.shields.io/github/followers/lucaengel?label=Follow&style=social)](https://github.com/Luca-Engel)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin&link=https://www.linkedin.com/in/luca-engel/)](https://www.linkedin.com/in/luca-engel/)
 
 
 
@@ -72,3 +78,5 @@ Jass-entials is my current project, an Android app dedicated to providing users 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Luca-Engel&theme=dark&background=000000)](https://git.io/streak-stats)
 
 Thank you for visiting my profile, and I look forward to sharing more exciting projects with you!
+
+</div>
