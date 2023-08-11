@@ -23,39 +23,42 @@ Here are some ideas to get you started:
 Welcome to my GitHub profile! I'm Luca Engel, a passionate software developer with a focus on Android app development. I love exploring new technologies and creating innovative solutions to solve real-world problems. Currently, I am working on an exciting Android app called Jass-entials, which allows users to play various jass variations.
 
 ## Programming Languages
-Here are the programming languages I'm proficient in:
+Here are the programming languages I am proficient in:
 
-- Java
-- Scala
-- Kotlin
-- Jetpack Compose
-- C
-- Python
-- OpenGL
-- SQL
-
-
-
-<a href="[https://www.scala-lang.org/](https://www.java.com/en/)" target="_blank">
-  <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v2.png" alt="Java" width="40" height="40" title="Java">
+<div>
+<a href="https://www.java.com/en/" target="_blank">
+  <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v2.png" alt="Java" height="40" title="Java">
 </a>
 
 <a href="https://www.scala-lang.org/" target="_blank">
-  <img src="https://github.com/devicons/devicon/raw/master/icons/scala/scala-original.svg" alt="Scala" width="40" height="40" title="Scala">
+  <img src="https://github.com/devicons/devicon/raw/master/icons/scala/scala-original.svg" alt="Scala" height="40" title="Scala">
 </a>
 
+<a href="https://kotlinlang.org/" target="_blank">
+  <img src="https://img.icons8.com/color/48/000000/kotlin.png" alt="Kotlin" height="40" title="Kotlin">
+</a>
 
-![Kotlin](https://img.icons8.com/color/48/000000/kotlin.png)
-![Jetpack Compose](https://img.icons8.com/color/48/000000/android.png)
-![C](https://img.icons8.com/color/48/000000/c-programming.png)
-![Python](https://img.icons8.com/color/48/000000/python.png)
-![OpenGL](https://img.icons8.com/color/48/000000/opengl.png)
-![SQL](https://img.icons8.com/ios-filled/50/000000/sql.png)
+<a href="https://developer.android.com/jetpack/compose" target="_blank">
+  <img src="https://3.bp.blogspot.com/-VVp3WvJvl84/X0Vu6EjYqDI/AAAAAAAAPjU/ZOMKiUlgfg8ok8DY8Hc-ocOvGdB0z86AgCLcBGAsYHQ/s1600/jetpack%2Bcompose%2Bicon_RGB.png" alt="Jetpack Compose" height="40" title="Jetpack Compose">
+</a>
 
-![Scala](https://icons8.com/icons/set/scala)
+<a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank">
+  <img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C" height="40" title="C">
+</a>
 
-<a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/scala/scala-original.svg"><img src="https://github.com/devicons/devicon/raw/master/icons/scala/scala-original.svg" title="Scala" alt="Scala" width="40" height="40" style="max-width: 100%;"></a>
+<a href="https://www.python.org/" target="_blank">
+  <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" height="40" title="Python">
+</a>
 
+<a href="https://www.mysql.com/" target="_blank">
+  <img src="https://raw.githubusercontent.com/docker-library/docs/c408469abbac35ad1e4a50a6618836420eb9502e/mysql/logo.png" alt="SQL" height="40" title="MySQL">
+</a>
+
+<a href="https://www.opengl.org/" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Opengl-logo.svg" alt="OpenGL" height="40" title="OpenGL">
+</a>
+
+</div>
 
 ## Projects
 
@@ -65,5 +68,7 @@ CoachMe is an Android app that I developed as a semester project in a group of 5
 ### jass-entials (Work in Progress)
 Jass-entials is my current project, an Android app dedicated to providing users with a platform to play different jass variations. I'm excited to develop this app and bring the joy of playing jass to users worldwide. You can find the current state of it [here](https://github.com/apps-entials/jass-entials).
 
+## Stats
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Luca-Engel&theme=dark&background=000000)](https://git.io/streak-stats)
 
 Thank you for visiting my profile, and I look forward to sharing more exciting projects with you!
