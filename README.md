@@ -37,34 +37,34 @@ Here are the programming languages in which I am proficient:
 
 <div>
     <a href="https://www.java.com/en/" target="_blank" style="text-decoration: none;">
-      <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v2.png" alt="Java" height="40" title="Java">
+      <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v2.png" alt="Java" height="50" title="Java">
     </a>
     <a href="https://www.scala-lang.org/" target="_blank" style="text-decoration: none;">
-      <img src="https://github.com/devicons/devicon/raw/master/icons/scala/scala-original.svg" alt="Scala" height="40" title="Scala">
+      <img src="https://github.com/devicons/devicon/raw/master/icons/scala/scala-original.svg" alt="Scala" height="50" title="Scala">
     </a>
     <a href="https://kotlinlang.org/" target="_blank" style="text-decoration: none;">
-      <img src="https://img.icons8.com/color/48/000000/kotlin.png" alt="Kotlin" height="40" title="Kotlin">
+      <img src="https://img.icons8.com/color/48/000000/kotlin.png" alt="Kotlin" height="50" title="Kotlin">
     </a>
     <a href="https://developer.android.com/" target="_blank" style="text-decoration: none;">
-      <img src="https://developer.android.com/static/images/brand/Android_Robot.png" alt="Android" height="40" title="Android">
+      <img src="https://developer.android.com/static/images/brand/Android_Robot.png" alt="Android" height="50" title="Android">
     </a>
     <a href="https://developer.android.com/jetpack/compose" target="_blank" style="text-decoration: none;">
-      <img src="https://3.bp.blogspot.com/-VVp3WvJvl84/X0Vu6EjYqDI/AAAAAAAAPjU/ZOMKiUlgfg8ok8DY8Hc-ocOvGdB0z86AgCLcBGAsYHQ/s1600/jetpack%2Bcompose%2Bicon_RGB.png" alt="Jetpack Compose" height="40" title="Jetpack Compose">
+      <img src="https://3.bp.blogspot.com/-VVp3WvJvl84/X0Vu6EjYqDI/AAAAAAAAPjU/ZOMKiUlgfg8ok8DY8Hc-ocOvGdB0z86AgCLcBGAsYHQ/s1600/jetpack%2Bcompose%2Bicon_RGB.png" alt="Jetpack Compose" height="50" title="Jetpack Compose">
     </a>
     <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank" style="text-decoration: none;">
-      <img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C" height="40" title="C">
+      <img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C" height="50" title="C">
     </a>
     <a href="https://www.python.org/" target="_blank" style="text-decoration: none;">
-      <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" height="40" title="Python">
+      <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" height="50" title="Python">
     </a>
     <a href="https://www.mysql.com/" target="_blank" style="text-decoration: none;">
-      <img src="https://raw.githubusercontent.com/docker-library/docs/c408469abbac35ad1e4a50a6618836420eb9502e/mysql/logo.png" alt="SQL" height="40" title="MySQL">
+      <img src="https://raw.githubusercontent.com/docker-library/docs/c408469abbac35ad1e4a50a6618836420eb9502e/mysql/logo.png" alt="SQL" height="50" title="MySQL">
     </a>
     <a href="https://www.opengl.org/" target="_blank" style="text-decoration: none;">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Opengl-logo.svg" alt="OpenGL" height="40" title="OpenGL">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Opengl-logo.svg" alt="OpenGL" height="50" title="OpenGL">
     </a>
     <a href="https://en.wikipedia.org/wiki/JavaScript" target="_blank" style="text-decoration: none;">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JavaScript" height="40" title="JavaScript">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JavaScript" height="50" title="JavaScript">
     </a>
 </div>
 
