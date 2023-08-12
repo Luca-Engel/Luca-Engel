@@ -1,0 +1,135 @@
+<!DOCTYPE html>
+<html lang="">
+<head>
+    <title>Image Slideshow</title>
+    <style>
+        /* Style for the slideshow container */
+        .slideshow-container {
+            text-align: center;
+            position: relative;
+            max-width: 800px;
+            margin: auto;
+        }
+
+
+        /* Style for the slideshow images */
+        .slideshow-image {
+            display: none;
+            height: 50px;
+        }
+
+        /* Style for the slideshow navigation dots */
+        .dot {
+            height: 10px;
+            width: 10px;
+            margin: 0 2px;
+            background-color: #bbb;
+            border-radius: 50%;
+            display: inline-block;
+            transition: background-color 0.6s ease;
+        }
+
+        .active {
+            background-color: #717171;
+        }
+
+        .dot-container {
+            text-align: center;
+            margin-top: 10px;
+        }
+    </style>
+</head>
+<body>
+<div class="slideshow-container">
+
+    <a class="slideshow-image" href="https://www.java.com/en/" target="_blank">
+        <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v2.png" alt="Java" height="40" title="Java">
+    </a>
+
+    <a class="slideshow-image" href="https://www.scala-lang.org/" target="_blank">
+        <img src="https://github.com/devicons/devicon/raw/master/icons/scala/scala-original.svg" alt="Scala" height="40" title="Scala">
+    </a>
+
+    <a class="slideshow-image" href="https://kotlinlang.org/" target="_blank">
+        <img src="https://img.icons8.com/color/48/000000/kotlin.png" alt="Kotlin" height="40" title="Kotlin">
+    </a>
+
+    <a class="slideshow-image" href="https://developer.android.com/" target="_blank">
+        <img src="https://developer.android.com/static/images/brand/Android_Robot.png" alt="Android" height="40" title="Android">
+    </a>
+
+    <a class="slideshow-image" href="https://developer.android.com/jetpack/compose" target="_blank">
+        <img src="https://3.bp.blogspot.com/-VVp3WvJvl84/X0Vu6EjYqDI/AAAAAAAAPjU/ZOMKiUlgfg8ok8DY8Hc-ocOvGdB0z86AgCLcBGAsYHQ/s1600/jetpack%2Bcompose%2Bicon_RGB.png" alt="Jetpack Compose" height="40" title="Jetpack Compose">
+    </a>
+
+    <a class="slideshow-image" href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank">
+        <img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C" height="40" title="C">
+    </a>
+
+    <a class="slideshow-image" href="https://www.python.org/" target="_blank">
+        <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" height="40" title="Python">
+    </a>
+
+    <a class="slideshow-image" href="https://www.mysql.com/" target="_blank">
+        <img src="https://raw.githubusercontent.com/docker-library/docs/c408469abbac35ad1e4a50a6618836420eb9502e/mysql/logo.png" alt="SQL" height="40" title="MySQL">
+    </a>
+
+    <a class="slideshow-image" href="https://www.opengl.org/" target="_blank">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Opengl-logo.svg" alt="OpenGL" height="40" title="OpenGL">
+    </a>
+
+    <a class="slideshow-image" href="https://en.wikipedia.org/wiki/JavaScript" target="_blank">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JavaScript" height="40" title="JavaScript">
+    </a>
+</div>
+<div class="dot-container">
+    <div style="text-align: center;">
+        <span class="dot"></span>
+        <span class="dot"></span>
+        <span class="dot"></span>
+        <span class="dot"></span>
+        <span class="dot"></span>
+        <span class="dot"></span>
+        <span class="dot"></span>
+        <span class="dot"></span>
+        <span class="dot"></span>
+        <span class="dot"></span>
+    </div>
+</div>
+
+<script>
+    let slideIndex = 0;
+    showSlides();
+
+    function showSlides() {
+        let i;
+        const slides = document.getElementsByClassName("slideshow-image");
+        const dots = document.getElementsByClassName("dot");
+
+        for (i = 0; i < slides.length; i++) {
+            slides[i].style.display = "none";
+        }
+
+        slideIndex++;
+
+        if (slideIndex > slides.length) {
+            slideIndex = 1;
+        }
+
+        for (i = 0; i < dots.length; i++) {
+            dots[i].className = dots[i].className.replace(" active", "");
+        }
+
+        slides[slideIndex - 1].style.display = "inline-block";
+        slides[slideIndex % slides.length].style.display = "inline-block";
+        slides[(slideIndex + 1) % slides.length].style.display = "inline-block";
+
+        dots[slideIndex - 1].className += " active";
+        dots[slideIndex % slides.length].className += " active";
+        dots[(slideIndex + 1) % slides.length].className += " active";
+
+        setTimeout(showSlides, 2000); // Change image every 2 seconds
+    }
+</script>
+</body>
+</html>

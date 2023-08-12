@@ -31,13 +31,6 @@ Welcome to my GitHub profile! I'm Luca Engel, a passionate software developer. I
 ## Programming Languages
 Here are the programming languages I am proficient in:
 
-
-[//]: # (TODO: display content of https://luca-engel.github.io/Slide-Show/)
-<div>
-<iframe src="https://luca-engel.github.io/Slide-Show/" style="width:100%; height:300px;"></iframe>
-</div>
-
-
 <div>
     <a href="https://www.java.com/en/" target="_blank">
       <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v2.png" alt="Java" height="40" title="Java">
