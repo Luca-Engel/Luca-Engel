@@ -15,6 +15,9 @@ Here are some ideas to get you started:
 
 <div align="center">
   <h1>Luca Engel</h1>
+
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Welcome+to+The+GitHub+of+Luca+Engel!" alt="Typing SVG" /></a>
+
   <a href="https://github.com/Luca-Engel" target="_blank">
     <img src="https://img.shields.io/github/followers/luca-engel?label=Follow&style=social" alt="GitHub Luca Engel" height="25" title="GitHub Luca Engel">
   </a>
