@@ -33,6 +33,26 @@
             background-color: #717171;
         }
 
+        /* Dark mode styles */
+        @media (prefers-color-scheme: dark) {
+            body {
+                background-color: #333;
+                color: white;
+            }
+
+            a, a:visited {
+                color: white;
+            }
+
+            .dot {
+                background-color: #555;
+            }
+
+            .active {
+                background-color: #999;
+            }
+        }
+
         .dot-container {
             text-align: center;
             margin-top: 10px;
