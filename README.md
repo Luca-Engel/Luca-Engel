@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 <div align="center">
   <h1>Luca Engel</h1>
-  <a href="https://github.com/Luca-Engel" target="_blank"">
+  <a href="https://github.com/Luca-Engel" target="_blank">
     <img src="https://img.shields.io/github/followers/luca-engel?label=Follow&style=social" alt="GitHub Luca Engel" height="25" title="GitHub Luca Engel">
   </a>
   
@@ -31,47 +31,44 @@ Welcome to my GitHub profile! I'm Luca Engel, a passionate software developer. I
 ## Programming Languages
 Here are the programming languages I am proficient in:
 
+
+[//]: # (TODO: display content of https://luca-engel.github.io/Slide-Show/)
 <div>
-<a href="https://www.java.com/en/" target="_blank">
-  <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v2.png" alt="Java" height="40" title="Java">
-</a>
+<iframe src="https://luca-engel.github.io/Slide-Show/" style="width:100%; height:300px;"></iframe>
+</div>
 
-<a href="https://www.scala-lang.org/" target="_blank">
-  <img src="https://github.com/devicons/devicon/raw/master/icons/scala/scala-original.svg" alt="Scala" height="40" title="Scala">
-</a>
 
-<a href="https://kotlinlang.org/" target="_blank">
-  <img src="https://img.icons8.com/color/48/000000/kotlin.png" alt="Kotlin" height="40" title="Kotlin">
-</a>
-
-<a href="https://developer.android.com/" target="_blank">
-  <img src="https://developer.android.com/static/images/brand/Android_Robot.png" alt="Android" height="40" title="Android">
-</a>
-
-<a href="https://developer.android.com/jetpack/compose" target="_blank">
-  <img src="https://3.bp.blogspot.com/-VVp3WvJvl84/X0Vu6EjYqDI/AAAAAAAAPjU/ZOMKiUlgfg8ok8DY8Hc-ocOvGdB0z86AgCLcBGAsYHQ/s1600/jetpack%2Bcompose%2Bicon_RGB.png" alt="Jetpack Compose" height="40" title="Jetpack Compose">
-</a>
-
-<a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank">
-  <img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C" height="40" title="C">
-</a>
-
-<a href="https://www.python.org/" target="_blank">
-  <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" height="40" title="Python">
-</a>
-
-<a href="https://www.mysql.com/" target="_blank">
-  <img src="https://raw.githubusercontent.com/docker-library/docs/c408469abbac35ad1e4a50a6618836420eb9502e/mysql/logo.png" alt="SQL" height="40" title="MySQL">
-</a>
-
-<a href="https://www.opengl.org/" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Opengl-logo.svg" alt="OpenGL" height="40" title="OpenGL">
-</a>
-
-<a href="https://en.wikipedia.org/wiki/JavaScript" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JavaScript" height="40" title="JavaScript">
-</a>
-
+<div>
+    <a href="https://www.java.com/en/" target="_blank">
+      <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v2.png" alt="Java" height="40" title="Java">
+    </a>
+    <a href="https://www.scala-lang.org/" target="_blank">
+      <img src="https://github.com/devicons/devicon/raw/master/icons/scala/scala-original.svg" alt="Scala" height="40" title="Scala">
+    </a>
+    <a href="https://kotlinlang.org/" target="_blank">
+      <img src="https://img.icons8.com/color/48/000000/kotlin.png" alt="Kotlin" height="40" title="Kotlin">
+    </a>
+    <a href="https://developer.android.com/" target="_blank">
+      <img src="https://developer.android.com/static/images/brand/Android_Robot.png" alt="Android" height="40" title="Android">
+    </a>
+    <a href="https://developer.android.com/jetpack/compose" target="_blank">
+      <img src="https://3.bp.blogspot.com/-VVp3WvJvl84/X0Vu6EjYqDI/AAAAAAAAPjU/ZOMKiUlgfg8ok8DY8Hc-ocOvGdB0z86AgCLcBGAsYHQ/s1600/jetpack%2Bcompose%2Bicon_RGB.png" alt="Jetpack Compose" height="40" title="Jetpack Compose">
+    </a>
+    <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank">
+      <img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C" height="40" title="C">
+    </a>
+    <a href="https://www.python.org/" target="_blank">
+      <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" height="40" title="Python">
+    </a>
+    <a href="https://www.mysql.com/" target="_blank">
+      <img src="https://raw.githubusercontent.com/docker-library/docs/c408469abbac35ad1e4a50a6618836420eb9502e/mysql/logo.png" alt="SQL" height="40" title="MySQL">
+    </a>
+    <a href="https://www.opengl.org/" target="_blank">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Opengl-logo.svg" alt="OpenGL" height="40" title="OpenGL">
+    </a>
+    <a href="https://en.wikipedia.org/wiki/JavaScript" target="_blank">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JavaScript" height="40" title="JavaScript">
+    </a>
 </div>
 
 ## Public Projects
@@ -87,7 +84,6 @@ Jass-entials is my current project, an Android app dedicated to providing users 
 
 <div>
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Luca Engel contribution graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=Luca-Engel&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
-
 </div>
 
 Thank you for visiting my profile, and I look forward to sharing more exciting projects with you!
