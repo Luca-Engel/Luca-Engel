@@ -33,7 +33,7 @@ Welcome to my GitHub profile! I'm Luca Engel, a passionate software developer. I
 <br> You can find my GitHub page [here](https://luca-engel.github.io/Luca-Engel/).
 
 ## Programming Languages
-Here are the programming languages I am proficient in:
+Here are the programming languages in which I am proficient:
 
 <div>
     <a href="https://www.java.com/en/" target="_blank">
