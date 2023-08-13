@@ -73,7 +73,7 @@ Welcome to my GitHub profile! I'm Luca Engel, a passionate software developer. I
 CoachMe is an Android app that I developed as a semester project in a group of five. It aims to connect sports enthusiasts with suitable coaches. The project is hosted on GitHub, and you can find it [here](https://github.com/SDPCoachMe/SDP-2023). Feel free to check it out!
 
 ### jass-entials (Work in Progress)
-Jass-entials is my current project, an Android app dedicated to providing users with a platform to play different jass variations. I'm excited to develop this app and bring the joy of playing jass to users worldwide. You can find the current state of it [here](https://github.com/apps-entials/jass-entials).
+jass-entials is my current project, an Android app dedicated to providing users with a platform to play different jass variations. I'm excited to develop this app and bring the joy of playing jass to users worldwide. You can find the current state of it [here](https://github.com/apps-entials/jass-entials).
 
 ## Stats
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Luca-Engel&theme=dark&background=000000)](https://git.io/streak-stats)
