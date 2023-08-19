@@ -76,7 +76,7 @@ CoachMe is an Android app that I developed as a semester project in a group of f
 jass-entials is my current project, an Android app dedicated to providing users with a platform to play different jass variations. I'm excited to develop this app and bring the joy of playing jass to users worldwide. You can find the current state of it [here](https://github.com/apps-entials/jass-entials).
 
 ## Stats
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Luca-Engel&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Luca-Engel&theme=codestackr&background=000000)](https://git.io/streak-stats)
 
 <div>
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Luca Engel contribution graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=Luca-Engel&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
