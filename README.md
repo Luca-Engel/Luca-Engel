@@ -82,6 +82,6 @@ jass-entials is my current project, an Android app dedicated to providing users 
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Luca Engel contribution graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=Luca-Engel&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 </div>
 
-Thank you for visiting my profile, and I look forward to sharing more exciting projects with you!
+Thank you for visiting my profile, I look forward to sharing more exciting projects with you!
 
 </div>
