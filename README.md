@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
 
 
-Welcome to my GitHub profile! I'm Luca Engel, a passionate software developer. I love exploring new technologies and creating innovative solutions to solve problems. Currently, I am working on an exciting Android app called [jass-entials](#jass-entials-work-in-progress), which allows users to play different jass variations such as Sidi Barrani, Schieber, and Coiffeur.
+Welcome to my GitHub profile! I'm Luca Engel, a passionate software developer. I love exploring new technologies and creating innovative solutions to solve problems. Currently, I am working on an exciting Android app called [jass-entials](#jass-entials-work-in-progress), which allows its users to play different jass variations such as Sidi Barrani, Schieber, and Coiffeur.
 <br> You can find my GitHub page [here](https://luca-engel.github.io/Luca-Engel/).
 
 ## Programming Languages in Which I Am Proficient:
