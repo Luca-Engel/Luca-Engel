@@ -29,51 +29,8 @@ Here are some ideas to get you started:
 
 
 
-Welcome to my GitHub profile! I'm Luca Engel, a passionate software developer. I love exploring new technologies and creating innovative solutions to solve problems. Currently, I am working on an exciting Android app called [jass-entials](#jass-entials-work-in-progress), which allows its users to play different jass variations such as Sidi Barrani, Schieber, and Coiffeur.
-<br> You can find my GitHub page [here](https://luca-engel.github.io/Luca-Engel/).
-
-## Programming Languages Which I Have Used:
-
-<div>
-    <a href="https://www.java.com/en/" target="_blank" style="text-decoration: none;">
-      <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v2.png" alt="Java" height="50" title="Java">
-    </a>
-    <a href="https://www.scala-lang.org/" target="_blank" style="text-decoration: none;">
-      <img src="https://github.com/devicons/devicon/raw/master/icons/scala/scala-original.svg" alt="Scala" height="50" title="Scala">
-    </a>
-    <a href="https://kotlinlang.org/" target="_blank" style="text-decoration: none;">
-      <img src="https://img.icons8.com/color/48/000000/kotlin.png" alt="Kotlin" height="50" title="Kotlin">
-    </a>
-    <a href="https://developer.android.com/" target="_blank" style="text-decoration: none;">
-      <img src="https://developer.android.com/static/images/brand/Android_Robot.png" alt="Android" height="50" title="Android">
-    </a>
-    <a href="https://developer.android.com/jetpack/compose" target="_blank" style="text-decoration: none;">
-      <img src="https://3.bp.blogspot.com/-VVp3WvJvl84/X0Vu6EjYqDI/AAAAAAAAPjU/ZOMKiUlgfg8ok8DY8Hc-ocOvGdB0z86AgCLcBGAsYHQ/s1600/jetpack%2Bcompose%2Bicon_RGB.png" alt="Jetpack Compose" height="50" title="Jetpack Compose">
-    </a>
-    <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank" style="text-decoration: none;">
-      <img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C" height="50" title="C">
-    </a>
-    <a href="https://www.python.org/" target="_blank" style="text-decoration: none;">
-      <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" height="50" title="Python">
-    </a>
-    <a href="https://www.mysql.com/" target="_blank" style="text-decoration: none;">
-      <img src="https://raw.githubusercontent.com/docker-library/docs/c408469abbac35ad1e4a50a6618836420eb9502e/mysql/logo.png" alt="SQL" height="50" title="MySQL">
-    </a>
-    <a href="https://www.opengl.org/" target="_blank" style="text-decoration: none;">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Opengl-logo.svg" alt="OpenGL" height="50" title="OpenGL">
-    </a>
-    <a href="https://en.wikipedia.org/wiki/JavaScript" target="_blank" style="text-decoration: none;">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JavaScript" height="50" title="JavaScript">
-    </a>
-</div>
-
-## Public Projects
-
-### jass-entials (Work in Progress)
-jass-entials is my current project, an Android app dedicated to providing users with a platform to play different jass variations. I'm excited to develop this app and bring the joy of playing jass to users worldwide. You can find the current state of it [here](https://github.com/apps-entials/jass-entials).
-
-### CoachMe
-CoachMe is an Android app that I developed as a semester project in a group of five. It aims to connect sports enthusiasts with suitable coaches. The project is hosted on GitHub, and you can find it [here](https://github.com/SDPCoachMe/SDP-2023). Feel free to check it out!
+Welcome to my GitHub profile! I'm Luca Engel, a passionate software developer. I love exploring new technologies and creating innovative solutions to solve problems.
+<br> You can find my portfolio page [here](https://portfolio-roan-five-22.vercel.app/).
 
 ## Stats
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Luca-Engel&theme=codestackr&background=000000)](https://git.io/streak-stats)
