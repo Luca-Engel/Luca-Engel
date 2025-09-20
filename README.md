@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 
 
 Welcome to my GitHub profile! I'm Luca Engel, a passionate software developer. I love exploring new technologies and creating innovative solutions to solve problems.
-<br><br> You can find my portfolio page [here](https://portfolio-roan-five-22.vercel.app/).
+<br><br> You can find my portfolio page [here](https://www.luca-engel.ch/).
 
 ## Stats
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Luca-Engel&theme=codestackr&background=000000)](https://git.io/streak-stats)
